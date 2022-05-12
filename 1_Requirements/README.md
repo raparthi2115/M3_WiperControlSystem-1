@@ -12,7 +12,7 @@ When the button is pressed THREE times, it will turn on and move clockwise.
 When the button is pressed FOUR times, it will wiper off and move in an anticlockwise manner.
 When the button is pressed FIVE times, the wiper will complete one cycle.
 
-## ** SWOT Analysis **
+## **SWOT Analysis**
 
 ### **Strength**
 
