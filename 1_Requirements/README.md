@@ -7,9 +7,13 @@ In cars, a wiper control system replaces the standard wiper blade with an electr
 ## **Features**
 
 When the button is pressed ONCE, the automobile will be locked.
+
 When the button is pressed TWICE, the automobile will open.
+
 When the button is pressed THREE times, it will turn on and move clockwise.
+
 When the button is pressed FOUR times, it will wiper off and move in an anticlockwise manner.
+
 When the button is pressed FIVE times, the wiper will complete one cycle.
 
 ## **SWOT Analysis**
