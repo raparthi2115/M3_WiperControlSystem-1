@@ -5,13 +5,13 @@
 <body>
 <!--StartFragment-->
 
-Test ID | Description | Input | Expected output | Actual Output
--- | -- | -- | -- | --
-01 | Ignition On |  Pressing Button 1st 2sec  | key status | Key Status Displayed 
-02 | Wiper On | Pressing user button once | Wiper Status-1Hz | Wiper Status Displayed 
-03 | Wiper On | Pressing user button twice | Wiper Status-4Hz | Wiper Status Displayed 
-04 | Wiper On | Pressing user button thrice | Wiper Status-8Hz | Wiper Status Displayed 
-05 | Ignition Off | Pressing Button 1st 2sec  | Ignition key status | key status Displayed 
+Test ID | Description | Input | Expected output | Actual Output | status
+-- | -- | -- | -- | -- | --
+01 | Ignition On |  Pressing Button 1st 2sec  | key status | Key Status Displayed |✅
+02 | Wiper On | Pressing user button once | Wiper Status-1Hz | Wiper Status Displayed |✅
+03 | Wiper On | Pressing user button twice | Wiper Status-4Hz | Wiper Status Displayed |✅
+04 | Wiper On | Pressing user button thrice | Wiper Status-8Hz | Wiper Status Displayed |✅
+05 | Ignition Off | Pressing Button 1st 2sec  | Ignition key status | key status Displayed |✅
 
 <!--EndFragment-->
 </body>
